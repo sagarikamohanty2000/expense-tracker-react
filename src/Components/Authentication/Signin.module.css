@@ -1,0 +1,58 @@
+.frame {
+  position: absolute;
+  top: 15rem;
+  left: 45rem;
+  border: 1px solid black;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  width: 250px;
+  height: 300px;
+}
+
+.signUpLabel{
+ margin-left: 4rem;
+ font-weight:400;
+ 
+}
+
+.emailLabel {
+  margin-bottom: 8px;
+  width: 213px;
+  height: 25px;
+  padding-top: 7px;
+}
+
+.pswdLabel {
+  margin-bottom: 8px;
+  width: 213px;
+  height: 25px;
+  padding-top: 7px;
+}
+
+.cnfrmPswd {
+  margin-bottom: 8px;
+  width: 213px;
+  height: 25px;
+  padding-top: 7px;
+}
+
+.submBtn {
+  width: 220px;
+  height: 35px;
+  margin-top: 2rem;
+  padding-left: 0.5rem;
+  padding-top: 7px;
+  border-radius: 14px;
+  border: 0cap;
+  background-color: rgb(45, 164, 254);
+  
+}
+
+.loginBtn{
+position: absolute;
+top: 36rem;
+left: 47.5rem;
+width: 213px;
+height: 35px;
+
+}
